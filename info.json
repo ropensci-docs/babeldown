@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "13af86b9486ac2e343e5ecbfd2aea6dbc0dea2ff",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2023-02-23 16:49:51",
+    "files": 6,
+    "merge": false,
+    "message": "fixes\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/babeldown",
+  "pkg": "babeldown"
+}
