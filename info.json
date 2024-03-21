@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c528675613e2ae7f234a4efc60a9ec8e5a785bbe",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2024-02-20 12:45:42",
+    "files": 5,
+    "merge": false,
+    "message": "fix: deepl_update() to work with files in subdirectories, and absolute paths (#58)\n\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/babeldown",
+  "pkg": "babeldown"
+}
