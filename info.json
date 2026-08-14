@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c6ed926981e29cf47cbef3b00462f791a0b827d2",
+    "author": "Maëlle Salmon <msmaellesalmon@gmail.com>",
+    "time": "2026-07-15T15:12:45Z",
+    "files": 9,
+    "merge": false,
+    "message": "chore: refactor the unprotecting code"
+  },
+  "repo": "https://github.com/ropensci-review-tools/babeldown",
+  "pkg": "babeldown",
+  "time": "2026-08-14T06:21:16Z"
+}
