@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "901b5e24a07c7b58fe24f300d9b78005b7a46a33",
+    "author": "Maëlle Salmon <msmaellesalmon@gmail.com>",
+    "time": "2026-10-06T09:31:53Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: fix pkgdown config"
+  },
+  "repo": "https://github.com/ropensci-review-tools/babeldown",
+  "pkg": "babeldown",
+  "time": "2026-10-07T08:24:13Z"
+}
